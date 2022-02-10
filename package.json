@@ -1,0 +1,19 @@
+{
+  "name": "admin-pipes",
+  "version": "1.0.0",
+  "description": "pipes used all over multiple deala projects",
+  "author": "teamdeala",
+  "repository": "https://github.com/teamdeala/admin-pipes.git",
+  "homepage": "https://deala.com",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "@angular/core": "^13.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
